@@ -13,7 +13,7 @@ date_default_timezone_set("PRC");
 set_time_limit(0);
 
 /**
- * 字符串编码转换成utf8
+ * 字符串编码转换成utf-8
  * @param $str
  * @return string
  */
